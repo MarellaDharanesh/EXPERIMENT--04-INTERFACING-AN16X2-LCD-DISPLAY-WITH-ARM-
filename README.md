@@ -205,14 +205,15 @@ Register no. : 212222240062
 ## Output screen shots of proteus  :
 
 
-![image](https://github.com/MarellaDharanesh/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/118707669/05d36f1a-15ef-46f1-b719-761ba5c0b24e)
+![WhatsApp Image 2023-06-09 at 18 31 01](https://github.com/MarellaDharanesh/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/118707669/223cc08d-0228-4bab-9d24-1a76cdab1b7b)
+
 
 ##
 
 
+![WhatsApp Image 2023-06-09 at 18 31 02](https://github.com/MarellaDharanesh/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/118707669/d91be71c-6217-479e-9551-d02f7972d65c)
 
 
-![image](https://github.com/MarellaDharanesh/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/118707669/d71e391e-9b8c-480c-8fbd-4cf4ad29a14b)
 
 
  
